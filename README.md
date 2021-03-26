@@ -6,7 +6,7 @@
 ## --> There is also an option to round up the total tip 
 ## --> This app also have dark theme enabled (for this dark theme should be enabled in setting/display/dark theme)
 ## Light theme Screenshot
-![plot](tip_calculator_light.png)
+<img src="tip_calculator_light.png" alt="tip_calculator_light" width="250"/>
 
 ## Dark theme screenshot
 ![plot](tip_calculator_dark.png)
